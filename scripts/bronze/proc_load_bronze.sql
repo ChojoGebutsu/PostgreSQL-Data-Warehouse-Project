@@ -7,7 +7,7 @@ Script Purpose:
     It performs the following actions:
     - Truncates the bronze tables before loading data.
     - Performs the `Full Load` in the form of COPY command to load data from CSV files to Bronze Layer's tables.
-    - Since it performs on the Truncate & Insert principle, it should be executed every day in order to insert the
+    - Since it's based on the Truncate & Insert principle, it should be executed every day in order to insert the
         newest data into the tables.
 
 Parameters:
