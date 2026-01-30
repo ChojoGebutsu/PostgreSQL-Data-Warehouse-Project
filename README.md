@@ -32,10 +32,10 @@ Everything is free!
 
 ### Building the Data Warehouse
 
-### Objective
+#### Objective
 Build a PostgreSQL data warehouse that combines sales data for reporting and analysis.
 
-### Tasks
+#### Tasks
 - Load data from two CSV sources (ERP and CRM).
 - Clean and handle data quality issues before analysis.
 - Integrate both sources into a single, analytics-friendly data model.
