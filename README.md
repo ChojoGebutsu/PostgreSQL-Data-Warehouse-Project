@@ -19,9 +19,8 @@ This project includes:
 
 ---
 
-## 🛠️ Tools I Used
+## 🛠️ Tools Used
 
-Everything is free!
 - **[Datasets](datasets/)**: Access the project datasets (CSV files).
 - **[PostgreSQL](https://www.postgresql.org/download/)**: Open-source relational database for hosting your data warehouse.
 - **[VS Code](https://code.visualstudio.com/download)**: A go-to GUI for PostgreSQL database management and executing SQL queries.
