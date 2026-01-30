@@ -26,6 +26,34 @@ This project includes:
 
 ---
 
+## 📂 Repository Structure
+```
+PostgreSQL_Data_Warehouse_Project/
+│
+├── datasets/ # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/ # Project documentation and architecture details
+│ ├── ETL_process.png # A diagram created in Draw.io showing ETL techniques and methods used in this project
+│ ├── data_architecture.png # A diagram created in Draw.io showing the project's architecture
+│ ├── data_catalogue.md # Catalog of datasets, including field descriptions and metadata
+│ ├── data_flow.png # A diagram created in Draw.io for the data flow diagram
+│ ├── data_integration_model.png # A diagram created in Draw.io that shows how tables are related to each other.
+│ ├── gold_layer_data_model.png # A diagram created in Draw.io that shows gold layer data model (star schema)
+│ ├── naming-conventions.md # Consistent naming guidelines for tables, columns, and files
+│
+├── scripts/ # SQL scripts for ETL and transformations
+│ ├── bronze/ # Scripts for extracting and loading raw data
+│ ├── silver/ # Scripts for cleaning and transforming data
+│ ├── gold/ # Scripts for creating analytical models
+│
+├── tests/ # Test scripts and quality files
+│
+├── README.md # Project overview and instructions
+├── LICENSE # License information for the repository
+├── .gitignore # Files and directories to be ignored by Git
+```
+---
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse
@@ -66,35 +94,6 @@ The data architecture for this project adheres to the Medallion Architecture, co
 ---
 
 ---
-
-## 📂 Repository Structure
-```
-PostgreSQL_Data_Warehouse_Project/
-│
-├── datasets/ # Raw datasets used for the project (ERP and CRM data)
-│
-├── docs/ # Project documentation and architecture details
-│ ├── ETL_process.png # A diagram created in Draw.io showing ETL techniques and methods used in this project
-│ ├── data_architecture.png # A diagram created in Draw.io showing the project's architecture
-│ ├── data_catalogue.md # Catalog of datasets, including field descriptions and metadata
-│ ├── data_flow.png # A diagram created in Draw.io for the data flow diagram
-│ ├── data_integration_model.png # A diagram created in Draw.io that shows how tables are related to each other.
-│ ├── gold_layer_data_model.png # A diagram created in Draw.io that shows gold layer data model (star schema)
-│ ├── naming-conventions.md # Consistent naming guidelines for tables, columns, and files
-│
-├── scripts/ # SQL scripts for ETL and transformations
-│ ├── bronze/ # Scripts for extracting and loading raw data
-│ ├── silver/ # Scripts for cleaning and transforming data
-│ ├── gold/ # Scripts for creating analytical models
-│
-├── tests/ # Test scripts and quality files
-│
-├── README.md # Project overview and instructions
-├── LICENSE # License information for the repository
-├── .gitignore # Files and directories to be ignored by Git
-```
----
-
 
 ## 🛡️ License
 
