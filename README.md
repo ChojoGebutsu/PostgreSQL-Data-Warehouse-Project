@@ -30,9 +30,9 @@ Everything is free!
 
 ## 🚀 Project Requirements
 
-### Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse
 
-#### Goal
+### Objective
 Build a PostgreSQL data warehouse that combines sales data for reporting and analysis.
 
 ### Tasks
