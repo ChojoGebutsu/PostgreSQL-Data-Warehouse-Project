@@ -22,7 +22,7 @@ Everything is free!
 - **[Datasets](datasets/)**: Access the project datasets (CSV files).
 - **[PostgreSQL](https://www.postgresql.org/download/)**: Open-source relational database for hosting your data warehouse.
 - **[VS Code](https://code.visualstudio.com/download)**: A go-to GUI for PostgreSQL database management and executing SQL queries.
-- **[Notion Project Steps](https://shorturl.at/TIc1c)**: Access all project phases and tasks.
+- **[Notion Project Steps](https://shorturl.at/yMIZt)**: Access all project phases and tasks.
 
 ---
 
