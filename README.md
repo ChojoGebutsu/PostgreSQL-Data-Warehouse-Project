@@ -30,15 +30,15 @@ Everything is free!
 
 ### Building the Data Warehouse (Data Engineering)
 
-#### Objective
-Construct a modern data warehouse using PostgreSQL to consolidate sales data, facilitating analytical reporting and informed decision-making.
+#### Goal
+Build a PostgreSQL data warehouse that combines sales data for reporting and analysis.
 
-#### Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Merge both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus exclusively on the latest dataset; historization of data is not required.
-- **Documentation**: Provide comprehensive documentation of the data model to support both business stakeholders and analytics teams.
+### Tasks
+- Load data from two CSV sources (ERP and CRM).
+- Clean and handle data quality issues before analysis.
+- Integrate both sources into a single, analytics-friendly data model.
+- Use only the latest dataset (no historical tracking required).
+- Document the data model for business users and analytics teams.
 
 ---
 
