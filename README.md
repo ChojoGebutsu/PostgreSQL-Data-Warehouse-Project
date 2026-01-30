@@ -28,7 +28,7 @@ This project includes:
 
 ## 📂 Repository Structure
 ```
-PostgreSQL_Data_Warehouse_Project/
+PostgreSQL-Data-Warehouse-Project/
 │
 ├── datasets/ # Raw datasets used for the project (ERP and CRM data)
 │
