@@ -1,8 +1,10 @@
 # PostgreSQL Data Warehouse Project
 
-Welcome to the **PostgreSQL Data Warehouse Project** repository! 🚀  
+Welcome to the **PostgreSQL Data Warehouse Project** repository! 🚀
 
-This project exemplifies a robust data warehousing and analytics solution, encompassing the building of a data warehouse and the generation of actionable insights. Designed as a portfolio piece, it demonstrates industry-leading practices in data engineering and analytics.
+This project showcases a complete data warehousing and analytics solution, including building a PostgreSQL data warehouse and generating insights from integrated data sources. It is intended as a portfolio project and demonstrates practical data engineering and analytics skills.
+
+**Credits:** Project inspired by and based on content from *Data with Baraaa*.
 
 ---
 
