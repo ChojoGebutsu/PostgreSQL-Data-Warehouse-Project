@@ -3,9 +3,8 @@
 DDL Script: Create Bronze Tables
 ===============================================================================
 Script Purpose:
-    This script creates tables in the 'Bronze' schema, dropping existing tables 
-    if they already exist.
-	  Run this script to re-define the DDL structure of 'Bronze Layer's' Tables
+    This script creates tables in the 'Bronze' schema, dropping existing tables if they already exist.
+	Run this script to re-define the DDL structure of 'Bronze Layer's' Tables
 ===============================================================================
 */
 
